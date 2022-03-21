@@ -1,2 +1,1 @@
-# jmf-pass-gen.
-password gen that lets you decide your password.
+# Password Generator Starter Code
